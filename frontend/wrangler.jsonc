@@ -1,6 +1,6 @@
 // wrangler.jsonc 
 {
-  "name": "my-static-site",
+  "name": "iptv-player",
   "compatibility_date": "2025-04-01",
   "assets": {
     "directory": "./dist"
