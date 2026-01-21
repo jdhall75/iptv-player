@@ -1,0 +1,6 @@
+# Local development environment variables
+# Copy this file to .dev.vars and update with your actual values
+
+# JWT Secret - Use a strong random string
+# Generate with: openssl rand -base64 32
+JWT_SECRET=your-super-secret-jwt-key-change-this-in-production
